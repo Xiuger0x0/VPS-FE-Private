@@ -1,0 +1,8 @@
+
+# Ignore all files in the dist directory
+/*
+
+# except the dist directory itself.!/dist/**
+!.gitignore
+# and the dist directory itself
+!/dist
